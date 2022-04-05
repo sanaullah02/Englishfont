@@ -1,0 +1,38 @@
+@font-face { font-family: "Qwigley"; src: url("fonts/Qwigley.woff") format("woff"); }
+@font-face { font-family: "Italianno"; src: url("fonts/Italianno.woff") format("woff"); }
+@font-face { font-family: "Arizonia"; src: url("fonts/Arizonia.woff") format("woff"); }
+@font-face { font-family: "Brush Script"; src: url("fonts/Brush Script.woff") format("woff"); }
+@font-face { font-family: "Alex Brush"; src: url("fonts/Alex Brush.woff") format("woff"); }
+@font-face { font-family: "Scriptina"; src: url("fonts/Scriptina.woff") format("woff"); }
+@font-face { font-family: "Freebooter Script"; src: url("fonts/Freebooter Script.woff") format("woff"); }
+@font-face { font-family: "Great Vibes"; src: url("fonts/Great Vibes.woff") format("woff"); }
+@font-face { font-family: "168-CAI978"; src: url("fonts/168-CAI978.woff") format("woff"); }
+@font-face { font-family: "Precious"; src: url("fonts/Precious.woff") format("woff"); }
+@font-face { font-family: "Holy Union"; src: url("fonts/Holy Union.woff") format("woff"); }
+@font-face { font-family: "Aquarelle"; src: url("fonts/Aquarelle.woff") format("woff"); }
+@font-face { font-family: "Allura"; src: url("fonts/Allura.woff") format("woff"); }
+@font-face { font-family: "Lovers Quarrel"; src: url("fonts/Lovers Quarrel.woff") format("woff"); }
+@font-face { font-family: "Love"; src: url("fonts/Love.woff") format("woff"); }
+@font-face { font-family: "MilasianCirca"; src: url("fonts/MilasianCirca.woff") format("woff"); }
+@font-face { font-family: "BlackSword"; src: url("fonts/BlackSword.woff") format("woff"); }
+@font-face { font-family: "Halimun"; src: url("fonts/Halimun.woff") format("woff"); }
+
+#text00 { color: #000000; font-family: 'Verdana'; font-size: 10px; }
+#text01 { color: #DCCD80; font-family: 'Qwigley'; font-size: 4.5em; line-height: 1.5; font-weight: 400; }
+#text02 { color: #DCCD80; font-family: 'Italianno'; font-size: 4.5em; line-height: 1.5; font-weight: 400; }
+#text03 { color: #DCCD80; font-family: 'Arizonia'; font-size: 4em; line-height: 1.5; font-weight: 400; }
+#text04 { color: #DCCD80; font-family: 'Brush Script'; font-size: 4em; line-height: 1.5; font-weight: 400; }
+#text05 { color: #DCCD80; font-family: 'Alex Brush'; font-size: 4em; line-height: 1.5; font-weight: 400; }
+#text06 { color: #DCCD80; font-family: 'MilasianCirca'; font-size: 4em; line-height: 1.5; font-weight: 400; }
+#text07 { color: #DCCD80; font-family: 'Great Vibes'; font-size: 4em; line-height: 1.5; font-weight: 400; }
+#text08 { color: #DCCD80; font-family: 'Freebooter Script'; font-size: 3.5em; line-height: 1.5; font-weight: 400; }
+#text09 { color: #DCCD80; font-family: 'Scriptina'; font-size: 4em; line-height: 1.5; font-weight: 400; }
+#text10 { color: #DCCD80; font-family: 'Precious'; font-size: 3.5em; line-height: 1.5; font-weight: 400; }
+#text11 { color: #DCCD80; font-family: '168-CAI978'; font-size: 4em; line-height: 1.5; font-weight: 400; }
+#text12 { color: #DCCD80; font-family: 'Holy Union'; font-size: 4em; line-height: 1.5; font-weight: 400; }
+#text13 { color: #DCCD80; font-family: 'Aquarelle'; font-size: 4em; line-height: 1.5; font-weight: 400; }
+#text14 { color: #DCCD80; font-family: 'Allura'; font-size: 4em; line-height: 1.5; font-weight: 400; }
+#text15 { color: #DCCD80; font-family: 'Lovers Quarrel'; font-size: 5em; line-height: 1.5; font-weight: 400; }
+#text16 { color: #DCCD80; font-family: 'Love'; font-size: 5em; line-height: 1.5; font-weight: 400; }
+#text17 { color: #DCCD80; font-family: 'BlackSword'; font-size: 3em; line-height: 1.5; font-weight: 400; }
+#text18 { color: #DCCD80; font-family: 'Halimun'; font-size: 2em; line-height: 1.5; font-weight: 400; }
